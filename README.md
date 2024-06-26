@@ -1,13 +1,13 @@
 ## Hello World! 
   
 
-####- 🖥️ I’m Eyner García 🇳🇮  
+#### - 🖥️ I’m Eyner García 🇳🇮  
   
 
-####- 👨‍💻 I’m working as Android Developer  
+#### - 👨‍💻 I’m working as Android Developer  
   
 
-####- ⚡ Fun fact: "Between lines of code and sips of coffee, lies the magic of programming." ☕💻  
+#### - ⚡ Fun fact: "Between lines of code and sips of coffee, lies the magic of programming." ☕💻  
   
 
 <br/>  
