@@ -7,7 +7,7 @@
 #### - 👨‍💻 I’m studying Systems Engineering
   
 
-#### "Between lines of code and sips of coffee, lies the magic of programming." ☕💻  
+#### - ☕ "Between lines of code and sips of coffee, lies the magic of programming."   
   
 
 <br/>  
