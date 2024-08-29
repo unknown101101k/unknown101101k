@@ -7,7 +7,7 @@
 #### - 👨‍💻 I’m studying Android Develoment
   
 
-#### - ⚡ Fun fact: "Between lines of code and sips of coffee, lies the magic of programming." ☕💻  
+#### "Between lines of code and sips of coffee, lies the magic of programming." ☕💻  
   
 
 <br/>  
