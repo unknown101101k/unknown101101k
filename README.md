@@ -4,7 +4,7 @@
 #### - 🖥️ I’m Eyner García 🇳🇮  
   
 
-#### - 👨‍💻 I’m working as Android Developer  
+#### - 👨‍💻 I’m studying Android Develoment
   
 
 #### - ⚡ Fun fact: "Between lines of code and sips of coffee, lies the magic of programming." ☕💻  
