@@ -4,7 +4,7 @@
 #### - 🖥️ I’m Eyner García 🇳🇮  
   
 
-#### - 👨‍💻 I’m studying Android Develoment
+#### - 👨‍💻 I’m studying Systems Engineering
   
 
 #### "Between lines of code and sips of coffee, lies the magic of programming." ☕💻  
