@@ -7,7 +7,7 @@
 #### - 👨‍💻 I’m studying Systems Engineering.
 
 
-#### - ⚙️ I'm highly interested in mobile development.
+#### - 📱 I'm highly interested in mobile development.
   
 
 #### - ☕ "Between lines of code and sips of coffee, lies the magic of programming."   
