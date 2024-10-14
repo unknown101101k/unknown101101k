@@ -60,7 +60,7 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 </div>
 
-###Mobile Dev
+### Mobile Dev
 <div align="center">
   
 </div>
