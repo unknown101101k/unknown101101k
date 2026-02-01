@@ -1,85 +1,37 @@
-## Hello World! 
-  
-
-#### - 🖥️ I’m Eyner García 🇳🇮  
-  
-
-#### - 👨‍💻 I’m studying Systems Engineering.
-
-
-#### - 📱 I'm highly interested in mobile development.
-  
-
-#### - ☕ "Between lines of code and sips of coffee, lies the magic of programming."   
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="25%">
-
-
-
-### Frontend  
+# ⚠️ Error 404: Portfolio Not Found (Yet)
 <div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
+  <img src="https://i.pinimg.com/736x/64/25/d9/6425d9533e83434d24d667db3dbe79bf.jpg" width="250" />
+  
+  ### Status: Refactoring my Digital Life 🛠️
+  **Eyner García** está actualmente lidiando entre sus clases de universidad, el café enfriándose y la duda de si ese `<div>` debería estar centrado o no.
 </div>
 
-</td><td valign="top" width="25%">
+---
+
+### 🕵️ ¿Qué está pasando?
+He decidido prenderle fuego a mi antiguo README (que tenía más tecnologías que una enciclopedia de los 90) para centrarme en lo que de verdad me gusta. 
+
+Actualmente estoy:
+- [x] Seleccionando mis mejores proyectos para mostrarte un portafolio real.
+- [x] Construyendo soluciones **Mobile** que no se cierren solas al abrirlas.
+- [x] Puliedo mis skills técnicas y mis habilidades blandas.
+
+> "Between lines of code and sips of coffee is where the magic of programming lives..."
+ <sub>-Eyner García. (después de meterle sal a su café)</sub>
+
+### 📡 Encuéntrame antes de que cambie de stack otra vez:
+<p align="center">
+    <a href="https://linkedin.com/in/a" target="_blank">
+      <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+</p>
+<br />
+<br />
+<br />
+
+---
 
 
-
-### Backend  
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
-<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="25%">
-
-
-
-### DevOps  
-<div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-</div>
-
-### Mobile Dev
 <div align="center">
-  
+  <sub>// Print<em>("Hola, mundo!")</em></sub>
 </div>
-</td></tr></table>  
-
-<br/>  
-
-
-
-## Connect with me  
-<div align="center">
-<a href="https://linkedin.com/in/a" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unknown101101k)](https://github.com/unknown101101k/github-readme-stats)
